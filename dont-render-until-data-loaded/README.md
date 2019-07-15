@@ -1,0 +1,1 @@
+Live example https://codesandbox.io/embed/nuxt-like-zhwuv
